@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "369548044505",
+    "project_id": "flash-chat-p2023",
+    "storage_bucket": "flash-chat-p2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369548044505:android:98f6fc67fb77fbee53b6c8",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369548044505-tc40qovceg2p6ah9hjovfji6kph18j45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPfo0VXSwwowcjRKQlTtLr26vvRjC3EaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369548044505-tc40qovceg2p6ah9hjovfji6kph18j45.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "369548044505-tq6deofmhnnbf7i0hq4342n6pc8sqffd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thanapongr.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
